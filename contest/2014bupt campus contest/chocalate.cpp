@@ -12,6 +12,8 @@ using namespace std;
 5 3
 5 1
 
+校赛 巧克力题
+
 */
 int main()
 {
