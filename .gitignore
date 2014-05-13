@@ -1,0 +1,5 @@
+*.cdb
+*.depend
+*.layout
+bin/
+obj/
