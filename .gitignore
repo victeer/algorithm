@@ -1,4 +1,4 @@
-*.cdb
+*.cbp
 *.depend
 *.layout
 bin/
